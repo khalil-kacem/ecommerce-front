@@ -1,0 +1,96 @@
+
+.Container{
+    height: 30px;
+    
+}
+.wrapper{
+    padding: 5px 10px ;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 50px !important;
+
+}
+.left{
+flex: 1;
+cursor: pointer;
+font-size: 15px;
+}
+
+.center{
+    flex: 1;
+    text-align: center;
+}
+.center h1{
+    font-size: bold;
+}
+.right{
+    flex: 1;
+}
+
+.search {
+    width: 50%;
+    position: relative;
+    display: flex;
+  }
+  
+  .searchTerm {
+    width: 100%;
+    border: 3px solid black;
+    border-right: none;
+    padding: 5px;
+    height: 20px;
+    border-radius: 5px 0 0 5px;
+    outline: none;
+    color: #9DBFAF;
+  }
+  
+  .searchTerm:focus{
+    color: black;
+  }
+  
+  .searchButton {
+    width: 40px;
+    height: 36px;
+    border: 1px solid black;
+    background: black;
+    text-align: center;
+    color: #fff;
+    border-radius: 0 5px 5px 0;
+    cursor: pointer;
+    font-size: 20px;
+  }
+  .cart-container {
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+    padding: 20px;
+    color: black;
+}
+
+.cart-icon {
+    font-size: 24px;
+    margin-right: 10px;
+}
+
+.badge {
+    background-color: black;
+    color: #fff;
+    padding: 5px 10px;
+    border-radius: 50%;
+    font-size: 12px;
+}
+.menu-items{
+    font-size: 15px;
+    margin-left: 20px;
+
+}
+.cart-container .sign{
+    padding: 7px 5px;
+    cursor: pointer;
+    margin: 15px;
+}
+.cart-container .reg{
+    padding: 7px 5px;
+    cursor: pointer;
+}

@@ -1,0 +1,12 @@
+.ann{
+    background-color: teal;
+    height:30px ;
+    justify-content: center;
+    display: flex;
+    align-items: center;
+    font-size: 14px;
+    font-weight: 100;
+    color: white;
+    font-family: "Rubik", sans-serif;
+
+}
