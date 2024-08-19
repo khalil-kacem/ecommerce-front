@@ -10,6 +10,7 @@ import Footer from './components/Footer'
 import { Fade } from 'react-reveal'
 import Lottie from 'lottie-react';
 import An from './assets/Animationdata.json';
+import Login from './components/Login'
 function Home() {
   return (
     <div>

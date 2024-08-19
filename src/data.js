@@ -13,7 +13,7 @@ export const sliderItems=[
         id:1,
         img:alex,
         title: "Professional Football Jerseys",
-        desc:"yedi haja rahi mouch aadi mekch bech tl9a kifha jmla haya tchaja3 w ichri maandna ye bro "
+        desc:"Welcome to our premier online destination for professional football jerseys! Explore our vast collection featuring authentic jerseys from your favorite teams and players"
 
     },
     {

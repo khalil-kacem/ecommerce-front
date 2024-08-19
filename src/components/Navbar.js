@@ -22,10 +22,10 @@ const Navbar = () => {
             <div className='right'>
             <div class="cart-container ">
               <div className='reg'>
-              <Link to='/signup'><h4 class='menu-items'>Register </h4></Link>
+              <h4 class='menu-items'>Register </h4>
               </div>
               <div className='sign'>
-            <Link to='/login'><h4 class='menu-items'>Sign in</h4></Link>
+            <h4 class='menu-items'>Sign in</h4>
             </div>
             <div class="cart-icon menu-items">
              <i class="fas fa-shopping-cart"></i>
